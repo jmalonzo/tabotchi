@@ -68,7 +68,6 @@
 "tasks.coffee",
 "teamcity.coffee",
 "tell.coffee",
-"travis.coffee",
 "tweet-content.coffee",
 "tweet.coffee",
 "twitter.coffee",
