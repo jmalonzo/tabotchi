@@ -2,7 +2,7 @@
   "name":        "hosted-hubot",
   "version":     "0.2.0",
   "author":      "GitHub Inc.",
-  "keywords":    "github hubot campfire bot",
+  "keywords":    "github hubot campfire bot hipchat",
   "description": "A simple helpful Robot for your Company",
   "licenses":     [{
     "type":       "MIT",
@@ -15,10 +15,10 @@
   },
 
   "dependencies": {
-    "hubot": "2.0.5",
+    "hubot": "2.0.7",
     "hubot-scripts": "https://github.com/github/hubot-scripts/tarball/master",
     "optparse": "1.0.3",
-    "hubot-hipchat": "https://github.com/jmalonzo/hubot-hipchat/tarball/master"
+    "hubot-hipchat": "https://github.com/hipchat/hubot-hipchat/tarball/master"
   }
 }
 
