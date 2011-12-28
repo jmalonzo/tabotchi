@@ -2,7 +2,6 @@
 "dilbert.coffee",
 "hackernews.coffee",
 "pypi.coffee",
-"9gag.js",
 "abstract.coffee",
 "achievement_unlocked.coffee",
 "ackbar.coffee",
@@ -78,4 +77,9 @@
 "whos-turn.coffee",
 "wordnik.coffee",
 "xkcd.coffee",
-"xmas.js"]
+"xmas.js",
+"defprogramming.coffee",
+"flying-high.coffee",
+"inigo-montoya.coffee",
+"sweetdude.coffee",
+"hangman.coffee",]
