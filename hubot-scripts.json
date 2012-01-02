@@ -82,8 +82,9 @@
 "inigo-montoya.coffee",
 "sweetdude.coffee",
 "hangman.coffee",
-"insult.coffee",
-"javascript-sandbox.coffee",
-"put-it-back.coffee",
-"github-pulls.coffee",
-"chuck-norris.coffee"]
+"github-pulls"]
+#
+#"insult.coffee",
+#"javascript-sandbox.coffee",
+#"put-it-back.coffee",
+#"chuck-norris.coffee"]
