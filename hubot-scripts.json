@@ -1,5 +1,4 @@
-["help.coffee",
-"dilbert.coffee",
+["dilbert.coffee",
 "hackernews.coffee",
 "pypi.coffee",
 "abstract.coffee",
@@ -86,4 +85,5 @@
 "insult.coffee",
 "javascript-sandbox.coffee",
 "put-it-back.coffee",
-"github-pulls.coffee"]
+"github-pulls.coffee",
+"chuck-norris.coffee"]
