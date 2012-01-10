@@ -36,7 +36,6 @@
 "haters.coffee",
 "hideyakids.coffee",
 "isup.coffee",
-"jordan.coffee",
 "karma.coffee",
 "kittens.coffee",
 "lastfm_np.coffee",
@@ -82,4 +81,10 @@
 "inigo-montoya.coffee",
 "sweetdude.coffee",
 "hangman.coffee",
-"github-pulls"]
+"github-pulls.coffee",
+"reddit.coffee",
+"sensitive.coffee",
+"insult.coffee",
+"javascript-sandbox.coffee",
+"put-it-back.coffee",
+"chuck-norris.coffee"]
