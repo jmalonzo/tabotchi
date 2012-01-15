@@ -16,7 +16,7 @@
 
   "dependencies": {
     "hubot": "2.1.2",
-    "hubot-scripts": "https://github.com/github/hubot-scripts/tarball/master",
+    "hubot-scripts": "https://github.com/github/hubot-scripts/zipball/master",
     "optparse": "1.0.3",
     "hubot-hipchat": "https://github.com/hipchat/hubot-hipchat/tarball/master"
   }
