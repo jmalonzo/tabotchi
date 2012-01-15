@@ -58,7 +58,6 @@
 "rubygems.coffee",
 "shipit.coffee",
 "shorten.coffee",
-"speak.coffee",
 "spotify.coffee",
 "stocks.coffee",
 "sudo.coffee",
@@ -75,7 +74,6 @@
 "whos-turn.coffee",
 "wordnik.coffee",
 "xkcd.coffee",
-"xmas.js",
 "defprogramming.coffee",
 "flying-high.coffee",
 "inigo-montoya.coffee",
@@ -87,4 +85,6 @@
 "insult.coffee",
 "javascript-sandbox.coffee",
 "put-it-back.coffee",
-"chuck-norris.coffee"]
+"chuck-norris.coffee",
+"yoda-pictures.coffee",
+"yoda-quotes.coffee"]
