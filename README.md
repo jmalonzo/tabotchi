@@ -13,6 +13,23 @@ those dependencies are provided by [npm][npmjs].
 
 [npmjs]: http://npmjs.org
 
+## HTTP Listener
+
+Hubot has a HTTP listener which listens on the port specified by the `PORT`
+environment variable.
+
+You can specify routes to listen on in your scripts by using the `router`
+property on `robot`.
+
+```coffeescript
+module.exports = (robot) ->
+  robot.router.get "/hubot/version", (req, res) ->
+    res.end robot.version
+```
+
+There are functions for GET, POST, PUT and DELETE, which all take a route and
+callback function that accepts a request and a response.
+
 ### Redis
 
 If you are going to use the `redis-brain.coffee` script from `hubot-scripts`
@@ -111,7 +128,7 @@ If you would like to deploy to either a UNIX operating system or Windows.
 Please check out the [deploying hubot onto UNIX][deploy-unix] and
 [deploying hubot onto Windows][deploy-windows] wiki pages.
 
-[heroku-node-docs]: http://devcenter.heroku/com/articles/node-js
+[heroku-node-docs]: http://devcenter.heroku.com/articles/node-js
 [deploy-heroku]: https://github.com/github/hubot/wiki/Deploying-Hubot-onto-Heroku
 [deploy-unix]: https://github.com/github/hubot/wiki/Deploying-Hubot-onto-UNIX
 [deploy-windows]: https://github.com/github/hubot/wiki/Deploying-Hubot-onto-Windows
